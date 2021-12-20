@@ -8,11 +8,11 @@ Calibrate a camera (e.g., your phone) using the chessboard pattern. It’s logic
 ---
 ### Table of Content 
 ```
-├── src                           <- directory for source files 
-|    ├── main.m                   <- contains LR ipynp notebook
-|    ├── readPoints.m             <- contains KF ipynp notebook
-|    ├── Camera_Calibration.m     <- contains KF ipynp notebook
-|    ├── CalibrationSession.mat   <- contains KF ipynp notebook
+├── src                           <- directory for source files
+|    ├── Camera_Calibration.m     <- contains intrinsic and extrinsic parameters (to be run first)
+|    ├── main.m                   <- contains main script
+|    ├── readPoints.m             <- contains reading manually-defined points from image
+|    ├── CalibrationSession.mat   <- contains CalibrationSession from MATLAB Camera Calibrator APP
 |
 ├── Report.pdf                        
 └── Readme.md
