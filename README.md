@@ -14,6 +14,9 @@ Calibrate a camera (e.g., your phone) using the chessboard pattern. It’s logic
 |    ├── readPoints.m             <- contains reading manually-defined points from image
 |    ├── CalibrationSession.mat   <- contains CalibrationSession from MATLAB Camera Calibrator APP
 |
+├── dataset                       <- contains 30 images of chessboard for calibration 
 ├── Report.pdf                        
 └── Readme.md
 ```
+<p align="center"><img src="https://user-images.githubusercontent.com/90580636/146696031-4877726b-e362-4e05-a0bf-ffbd7ce4dad8.png" /></p>
+
