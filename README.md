@@ -1,5 +1,5 @@
 ## Camera-Calibration-using-Chessboard-Pattern
-It is apart of Assignment2 in Sensing, Perception and Actuation course for ROCV master's program at Innopolis University.
+In this repository, camera calibration is implemented using  MATLAB Camera Calibrator APP. It is apart of Assignment2 in Sensing, Perception and Actuation course for ROCV master's program at Innopolis University.
 
 ---
 ### Task description
@@ -19,4 +19,6 @@ Calibrate a camera (e.g., your phone) using the chessboard pattern. It’s logic
 └── Readme.md
 ```
 <p align="center"><img src="https://user-images.githubusercontent.com/90580636/146696031-4877726b-e362-4e05-a0bf-ffbd7ce4dad8.png" /></p>
+<p align="center">Camera Calibrator APP</p>
 
+**HINT: Move the images to same directory for the m files and change copy that directory to the code.
