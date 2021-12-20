@@ -11,6 +11,7 @@ Calibrate a camera (e.g., your phone) using the chessboard pattern. It’s logic
 ├── src                           <- directory for source files 
 |    ├── Linear Regression.ipynp  <- contains LR ipynp notebook
 |    ├── Kalman Filter.ipynp      <- contains KF ipynp notebook
-| 
+|
+├── Report.pdf                        
 └── Readme.md
 ```
